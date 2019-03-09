@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dibu</string>
+    <string name="title_home">现场录音</string>
+    <string name="title_dashboard">录音文件</string>
+    <string name="title_notifications">好友</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_luyin">luyin</string>
+    <string name="title_activity_wenjian">wenjian</string>
+    <string name="title_activity_friend">friend</string>
+</resources>
